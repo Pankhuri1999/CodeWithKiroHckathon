@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "computer-vision": {
+      "command": "uvx",
+      "args": ["opencv-mcp-server@latest"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": ["image_processing", "video_capture"]
+    },
+    "ml-tools": {
+      "command": "uvx", 
+      "args": ["tensorflow-mcp-server@latest"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false,
+      "autoApprove": ["model_training", "prediction"]
+    }
+  }
+}
