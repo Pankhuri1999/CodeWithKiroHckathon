@@ -164,12 +164,10 @@ By combining **technical innovation** with **social purpose**, this project demo
 ## 📁 Project Structure
 
 ```
-├── dataset/                # Custom Hindi gesture dataset (11,025 samples, 49 classes, MediaPipe skeletonized)
-├── model/                  # CNN model + training scripts
-├── mediapipe_utils/        # Keypoint extraction scripts
-├── transliteration/        # Hindi to English mapping
-├── pronunciation/          # Hindi sounds in English phonetic style
-├── app.py                  # Main application script
+├── datasetSaveImage.py/        # Keypoint extraction scripts
+├── train.py/          # model training
+├── run.py                  # Main application script
+├── videoKiro.mp4                # demo
 └── README.md               # Project documentation
 ```
 
