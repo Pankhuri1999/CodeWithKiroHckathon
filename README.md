@@ -22,6 +22,8 @@ Most sign language systems in AI focus on narrow datasets, leaving speakers of m
   * Privacy-preserving.
 An example of one the images used in dataset is - 
 ![App Screenshot](sampleLetterImage.jpg)
+
+
 This project shows that **AI is meant for everyone**, bringing people closer by bridging communication barriers through gestures and language.
 
 ---
