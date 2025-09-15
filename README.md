@@ -20,7 +20,9 @@ Most sign language systems in AI focus on narrow datasets, leaving speakers of m
   * Less biased by skin tone, background, or lighting.
   * More robust and generalizable.
   * Privacy-preserving.
-An example of one the images used in dataset is - 
+An example of one the images used in dataset is -
+
+
 ![App Screenshot](sampleLetterImage.jpg)
 
 
