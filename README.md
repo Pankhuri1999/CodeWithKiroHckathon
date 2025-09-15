@@ -2,7 +2,7 @@
 
 # 🤟 Hindi Sign Language Recognition
 
-A real-time **Hindi Sign Language Recognition System** that translates hand gestures into **Hindi characters**, represented as **English transliterations** or **phonetic sounds for pronunciation** with a model accuray of 92%.
+A real-time **Hindi Sign Language Recognition System** that translates hand gestures into **Hindi characters**, represented as **English transliterations** or **phonetic sounds for pronunciation** with a model accuray of 92%. This project is an attempt to prove that **AI is meant for everyone**, bringing people closer by bridging communication barriers through gestures and language.
 
 This project was created for the **Code With Kiro Hackathon (Best Wildcard / Freestyle Category)**. It highlights how **AI can promote inclusivity, accessibility, and diversity** ensuring that technology benefits everyone, regardless of language or ability.
 
@@ -27,7 +27,7 @@ An example of one the images used in dataset is -
 ![App Screenshot](sampleLetterImage.jpg)
 
 
-This project shows that **AI is meant for everyone**, bringing people closer by bridging communication barriers through gestures and language.
+
 
 ---
 
