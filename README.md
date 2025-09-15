@@ -27,7 +27,7 @@ An example of one the images used in dataset  -
 ![App Screenshot](sampleLetterImage.jpg)
 
 
-An example of one the leeter prediction -
+An example of one the letter prediction -
 
 ![App Screenshot](prediction.png)
 
