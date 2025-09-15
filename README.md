@@ -22,9 +22,14 @@ Most sign language systems in AI focus on narrow datasets, leaving speakers of m
   * Privacy-preserving.
  
     
-An example of one the images used in dataset is -
+An example of one the images used in dataset  -
 
 ![App Screenshot](sampleLetterImage.jpg)
+
+
+An example of one the leeter prediction -
+
+![App Screenshot](prediction.png)
 
 
 
