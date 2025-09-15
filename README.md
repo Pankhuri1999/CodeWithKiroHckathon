@@ -1,9 +1,3 @@
-Perfect 👍 Thanks for clarifying how your dataset was built. I’ll emphasize that **each sample is a skeletonized hand image created with MediaPipe** so the dataset doesn’t store raw hand photos, but structured keypoints and lines. This makes the dataset cleaner, privacy-preserving, and optimized for training.
-
-Here’s your fully updated README 👇
-
----
-
 # CodeWithKiroHackathon
 
 # 🤟 Hindi Sign Language Recognition
